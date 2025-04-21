@@ -2,6 +2,14 @@
 
 ## Data: Created a synthetic data of 300 rows with name and description includes interests, goals and vibe.
 
+##### Sample Data
+'''
+Anya Sharma,"A whimsical soul fascinated by the secret lives of street art, aiming to catalogue every hidden mural in her city; her vibe is quietly observant and deeply curious."
+
+Ben Carter,"An energetic optimist with an interest in competitive cloud-spotting and building furniture from recycled packaging, who dreams of inventing a chair that can hug you back; his vibe is enthusiastically resourceful."
+
+'''
+
 ##### Installation
 
 '''
