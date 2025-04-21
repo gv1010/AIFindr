@@ -68,7 +68,7 @@ Run the main.py Script:
 - If faiss_index folder is not found, it indexes .txt files in the documents folder.
 - If faiss_index exists, it loads the existing index.
 
-```python3 main.py```
+```streamlit run main.py```
 
 
 
