@@ -70,6 +70,14 @@ Run the main.py Script:
 
 ```streamlit run main.py```
 
+### Examples
+
+Here are some examples of the application interface:
+
+![Example 1:](images/example1.png)
+
+![Example 2:](images/example2.png)
+
 
 
 
